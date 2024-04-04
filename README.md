@@ -1,7 +1,7 @@
 Hi! My name is Demid 😏
 ========================================================================================================================================
 
-🌍  I'm a Front-End Developer based in Russia.
+🌍  I'm a passionate Front-End Developer
 <br/>
 
 ### Skills
