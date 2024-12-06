@@ -106,11 +106,11 @@
       </a>
       <br>Zustand
     </td>
-    <td align="center" width="155" height="90"> 
+    <td align="center" width="145" height="90"> 
       <a href="#knyazWeb-stack">
         <img src="https://github.com/user-attachments/assets/cc347987-3d01-46dd-89f0-92dd5b47c9cb" width="36" height="36" alt="tanstack query" />
       </a>
-      <br>TanStack Query
+      <br>TanStack Q
     </td> 
     <td align="center" width="110" height="90"> 
       <a href="#knyazWeb-stack">
