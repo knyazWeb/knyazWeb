@@ -16,13 +16,13 @@
       <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://www.typescriptlang.org" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
-      <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="Html5" />
       </a>
       <br>HTML5
@@ -34,43 +34,43 @@
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://www.npmjs.com/" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=npm" width="36" height="36" alt="npm" />
       </a>
       <br>NPM
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://yarnpkg.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=yarn" width="36" height="36" alt="yarn" />
       </a>
       <br>Yarn
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://git-scm.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://github.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="github" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://gitlab.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=gitlab" width="36" height="36" alt="gitlab" />
       </a>
       <br>GitLab
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://docker.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://figma.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="figma" />
       </a>
       <br>Figma
@@ -83,55 +83,55 @@
 <table width='100%'>
   <tr>
    <td align="center" width="110" height="90">
-      <a href="https://react.dev" target="_blank">
+     <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
       </a>
       <br>React
     </td>
-     <td align="center" width="110" height="90">
-      <a href="https://nextjs.org" target="_blank">
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=next" width="36" height="36" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
- <td align="center" width="110" height="90">
-      <a href="https://redux.js.org" target="_blank">
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://zustand.docs.pmnd.rs" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://raw.githubusercontent.com/knyazWeb/knyazWeb/bc443a94c6d990e4a0e3d34fa18e75e3d4251b46/zustand.svg" width="36" height="36" alt="Zustand" />
       </a>
       <br>Zustand
     </td>
     <td align="center" width="144" height="90"> 
-      <a href="https://tanstack.com/query/latest" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://github.com/user-attachments/assets/cc347987-3d01-46dd-89f0-92dd5b47c9cb" width="36" height="36" alt="tanstack query" />
       </a>
       <br>TanStack Query
     </td> 
     <td align="center" width="110" height="90"> 
-      <a href="https://webpack.js.org" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://vite.dev" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td> 
     <td align="center" width="110" height="90">
-      <a href="https://sass-lang.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=scss" width="36" height="36" alt="Sass" />
       </a>
       <br>Scss
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://tailwindcss.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
@@ -144,18 +144,18 @@
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
-      <a href="https://prettier.io" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>Prettier
     <td align="center" width="110" height="90">
-      <a href="https://eslint.org" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>ESLint
     </td>
-      <td align="center" width="110" height="90">
-      <a href="https://stylelint.io" target="_blank">
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="stylelint" />
       </a>
       <br>Stylelint
@@ -167,26 +167,26 @@
 
 <table width='100%'>
   <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="https://jestjs.io" target="_blank">
+    <td align="center" width="110" height="90"> 
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://testing-library.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
       <br>RT Library
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="https://vitest.dev" target="_blank">
+    <td align="center" width="110" height="90"> 
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=vitest" width="36" height="36" alt="vitest" />
       </a>
       <br>Vitest
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="https://storybook.js.org" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>Storybook
@@ -199,31 +199,31 @@
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-      <a href="https://nodejs.org" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="nodejs" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://expressjs.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="express" />
       </a>
       <br>Express
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://supabase.com" target="_blank">
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="supabase" />
       </a>
       <br>Supabase
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="https://firebase.google.com" target="_blank">
+    <td align="center" width="110" height="90"> 
+      <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="firebase" />
       </a>
       <br>Firebase
     </td>
-      <td align="center" width="110" height="90"> 
-      <a href="https://prisma.io" target="_blank">
+    <td align="center" width="110" height="90"> 
+       <a href="#knyazWeb-stack">
         <img src="https://skillicons.dev/icons?i=prisma" width="36" height="36" alt="prisma" />
       </a>
       <br>Prisma
