@@ -163,6 +163,30 @@
   </tr> 
 </table>
 
+> Testing
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="Storybook" />
+      </a>
+      <br>Storybook
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
+        <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="RT Library" />
+      </a>
+      <br>RT Library
+    </td>
+  </tr> 
+</table>
+
 > Backend
 
 <table width='100%'>
@@ -196,6 +220,30 @@
         <img src="https://skillicons.dev/icons?i=prisma" width="36" height="36" alt="prisma" />
       </a>
       <br>Prisma
+  </tr> 
+</table>
+
+> Code editors
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
+        <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCode" />
+      </a>
+      <br>VS Code
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
+        <img src="https://skillicons.dev/icons?i=neovim" width="36" height="36" alt="nvim" />
+      </a>
+      <br>Neovim
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#knyazWeb-stack">
+        <img src="https://skillicons.dev/icons?i=webstorm" width="36" height="36" alt="WebStorm" />
+      </a>
+      <br>WebStorm
+    </td>
   </tr> 
 </table>
 
